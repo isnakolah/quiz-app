@@ -75,7 +75,7 @@ const App: FC = () => {
     <>
       <GlobalStyle />
       <Wrapper>
-        <h1>REACT QUIZ</h1>
+        <h1>QUIZ APP</h1>
         {(gameOver || userAnswer.length === TOTAL_QUESTIONS) && (
           <button className="start" onClick={startTrivia}>
             Start
