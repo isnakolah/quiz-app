@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Brief Abstract
+This project is a quiz app.
 
 ## Available Scripts
 
